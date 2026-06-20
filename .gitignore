@@ -1,0 +1,6 @@
+output/answer.mp3
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
